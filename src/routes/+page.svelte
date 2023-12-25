@@ -21,7 +21,7 @@
 		<div class="flex justify-center space-x-2">
 			<a
 				class="btn variant-filled"
-				href="https://blah28722.github.io"
+				href="https://chicken-business-docs.vercel.app/"
 				target="_blank"
 				rel="noreferrer"
 			>
