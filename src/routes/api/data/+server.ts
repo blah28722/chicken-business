@@ -14,7 +14,10 @@ export async function OPTIONS() {
 export function GET({ request }) {
     console.log(request);
     const options: ResponseInit = {
-      status: 200
+      status: 200,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+      }
     }
     return new Response('Hello World!', options) 
 }
