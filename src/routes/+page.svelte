@@ -26,6 +26,12 @@
 				rel="noreferrer"
 			>
 				Launch Documentation
+			</a><br>
+			<a
+				class="btn variant-filled"
+				href="/sandbox"
+			>
+				Sandbox
 			</a>
 		</div>
 		<div class="space-y-2">

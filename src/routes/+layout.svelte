@@ -29,7 +29,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">Chicken Business</strong>
+				<a href="/"><strong class="text-xl uppercase">Chicken Business</strong></a>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
